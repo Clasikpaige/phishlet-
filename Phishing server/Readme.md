@@ -41,5 +41,5 @@ This repository contains a simple phishing server for educational purposes. It s
 - `LICENSE`: The license for this project.
 
 ## Author
-- Your Name
+- Paige
 
