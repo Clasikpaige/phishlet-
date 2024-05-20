@@ -15,7 +15,7 @@ This repository contains a simple phishing server for educational purposes. It s
 1. Clone the repository:
     ```
     git clone https://github.com/Clasikpaige/phishlet-.git
-    cd phishlet
+    cd phishlet-
     ```
 
 2. Install the required packages:
